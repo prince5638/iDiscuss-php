@@ -22,13 +22,3 @@ My mission is clear: to offer a controlled and valuable space where tech enthusi
 - **Ask and Answer**: As a registered member, you have the privilege to both ask questions and provide answers. This reciprocal relationship is at the core of our community, enabling mutual growth and knowledge sharing.
 
 - **Focused Conversations**: This platform is designed for focused interactions. Without the distractions of general social media, you can dive deep into tech subjects that matter most to you.
-
-**Join Our Community**
-
-To join the discussions, gain insights, and contribute to our technology-focused community, simply register for an account. As a member of iDiscuss, you'll have access to a wealth of knowledge and a network of passionate individuals eager to exchange ideas.
-
-**Contact Us**
-
-If you have any inquiries or suggestions, please don't hesitate to reach out. Contact our team at [contact@idiscuss.com](mailto:contact@idiscuss.com), and we'll be happy to assist you.
-
-Thank you for choosing iDiscuss as your exclusive technology discussion platform. Let's learn, share, and grow together in the world of technology.
